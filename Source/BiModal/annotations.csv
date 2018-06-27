@@ -1,0 +1,163 @@
+Song Title,Artist,Song Code,Quadrant,Avg_Valence,Avg_Arousal,SD_Valence,SD_Arousal
+Moon Song,Norah Jones,A111,Q4,2.8,-2.3,1,0.5
+Mother,John Lennon,A112,Q2,-2.3,1.8,1,0.5
+Never too Much,Luther Vandross,A114,Q1,3,2.8,0,0.5
+"New York, New York",Frank Sinatra,A115,Q1,2.3,2,0.5,0
+Nightmare,Avenged Sevenfold,A116,Q2,-2.5,3.3,0.6,0.5
+Nothing Compares 2 U,Sinéad O'Connor,A117,Q3,-1.8,-1.5,0.5,0.6
+On An Ocean,Lisa Gerrard,A119,Q4,1.8,-3,1,0.8
+Paint the Sky with Stars,Enya,A120,Q4,2,-3.3,0.8,0.5
+Sacrifice,Sinéad O'Connor,A126,Q3,-1.9,-2.6,1.2,1.1
+Serial Killer,Vio-Lence,A127,Q2,-3.1,3.6,1.2,0.5
+Single Ladies,Beyonce,A128,Q1,2.7,3,1,0.8
+Soldier Side,System of a Down,A129,Q2,-2.4,3,0.8,0.6
+Song for a Blue Guitar,Red House Painters,A130,Q3,-2.1,-1,0.7,1
+Spill Your Blood,Mr. Hyde,A131,Q2,-2.3,1.8,1.2,0.4
+Staying Alive,Bee Gees,A132,Q1,3.2,3.2,0.4,0.4
+Suicide Solution,Ozzy Osbourne,A133,Q2,-2.5,2.5,1,0.5
+Sunrise,Norah Jones,A134,Q4,2.3,-1.5,0.8,0.8
+Take my Scars,Machine Head,A136,Q2,-3.5,3.7,0.5,0.5
+Thank you Stars,Kate Melua,A137,Q4,2.6,-2,1,0.6
+The Bleeding,Five Finger Deadth Punch,A140,Q2,-2.3,2.5,1.2,0.5
+The Boy from Ipanema,Diana Krall,A141,Q4,2.4,-1.7,1.1,0.8
+The Enemy Inside,Dream Theater,A142,Q2,-1.8,3.2,1,0.8
+Angel,Sarah McLachlan,A143,Q3,-1.8,-2.3,0.8,1
+Those Sweet Words,Norah Jones,A145,Q4,2.5,-2,0.5,0.6
+Twist and Shout,Beatles,A146,Q1,2.5,3.2,0.8,0.4
+Two Miniutes to Midnight,Iron Maiden,A147,Q2,-3.2,3.8,1.2,0.4
+Uptown Girl,Billie Joel,A148,Q1,2.8,2.7,0.4,0.8
+Vulnerable,Roxette,A149,Q4,2.5,-1,0.5,1.1
+War,Bruce Springsteen,A150,Q2,-2.5,2.7,0.5,0.5
+War Pigs,Black Sabbath,A151,Q2,-2.2,2.5,1.2,0.5
+We are the Champions,Queen,A152,Q1,3,3,0.9,0.9
+What a Feeling,Irene Cara,A153,Q1,3.3,2.7,0.5,0.5
+Winter Wonderland,Louis Armstrong,A155,Q4,1.8,-2.3,0.8,0.8
+Yesterday,Beatles,A157,Q3,-2.5,-2.3,0.8,1
+You Should Be Dead,50 Cent,A159,Q2,-1.8,2.7,0.4,0.5
+"You're the First, the Last, My Everything",Barry White,A160,Q1,3.2,3,0.4,0
+What a Worderful World,Louis Armstrong,A001,Q4,3,-2.2,0.9,0.4
+Country Confort,Rod Stewart,A002,Q4,1.7,-1,0.8,0.6
+Lately,Stevie Wonder,A003,Q3,-2,-2.3,0.9,0.8
+I'm so lonesome I could cry,Johnny Cash,A004,Q3,-2.2,-2.7,0.8,0.5
+U Got the Look,Prince,A005,Q1,1.7,2.3,0.8,0.5
+Atlantic City,Bruce Springsteen,A006,Q1,1.8,2.7,1.2,1
+Blue Eyes,Elton John,A007,Q3,-1.7,-1.7,1,0.5
+Our Love,Natalie Cole,A009,Q4,2,-2.2,0.9,0.8
+Animal,Pearl Jam,A010,Q2,-2.3,3.7,0.8,0.5
+PS I Love You,Beatles,A011,Q1,2.7,1.2,0.5,1.2
+London Calling,The Clash,A013,Q2,-1.8,2.3,0.8,0.5
+Feels_Just_Like_It_Should,Jamiroquai,A014,Q1,1.7,3.2,1.2,0.4
+Just the Way You are,Billie Joel,A017,Q4,2,-1.8,0.6,0.8
+Solitude,Tonny Bennett,A018,Q3,-2,-3,0.6,0.6
+California Girls,Beach Boys,A019,Q1,3,2.2,0.6,0.8
+Sunday Bloody Sunday,U2,A020,Q2,-2.1,3.2,1.2,0.8
+That's what friends are for,Dionne and Fiends,A021,Q4,1.9,-1,0.9,1
+Miss Jamaica,Jimmy Cliff,A022,Q1,2.6,2.3,0.5,0.5
+Last Resort,Papa Roach,A023,Q2,-3.1,3.6,0.7,0.5
+Paradise,Sade,A024,Q1,2.3,1.3,1,1
+Bring Your Whole Crew,DMX,A025,Q2,-2.3,3,0.8,0.9
+Spanish Eyes,Ricky Martin,A027,Q1,2.7,2.5,0.8,0.5
+I Fucking Hate You,Godsmack,A028,Q2,-3.2,3.5,1.2,0.5
+Tears in Heaven,Eric Clapton,A029,Q3,-2.7,-2.8,1.1,0.8
+White Christmas,John Denver,A030,Q4,2,-2.2,0.9,0.8
+Soolaimon,Neil Diamond,A031,Q1,2.2,1,0.8,0.7
+May it Be,Enya,A032,Q4,1,-3.8,1,0.4
+Natural Disaster,Anathema,A034,Q3,-2.2,-0.8,0.8,1.1
+Disappear,Dream Theater,A035,Q3,-1.4,-1.6,1.1,0.9
+And The Singer sings his song,Neil Diamond,A037,Q3,-0.8,-3.2,1.1,0.8
+The Eternal,Joy Division,A038,Q3,-2.8,-2.6,0.4,1.1
+Dancing Queen,ABBA,A039,Q1,3.6,3.2,0.5,0.8
+Do you wanna dance,Beach Boys,A042,Q1,3.2,2.2,0.4,0.4
+Beautiful Day,Mary J. Blige,A043,Q1,2,1.8,0,0.8
+Misery Machine,Marilyn Manson,A044,Q2,-2.8,3.2,0.8,0.4
+Hurt,Johnny Cash,A045,Q3,-2,-2.2,0.7,0.8
+La Isla Bonita,Maddona,A047,Q1,3.2,2.6,0.4,0.5
+Everybody Hurts,REM,A048,Q3,-2.4,-1.2,0.5,0.4
+Highway to Hell,AC/DC,A049,Q2,-3,3.4,0.6,0.5
+"Whenever, wherever",Shakira,A050,Q1,3.2,3,0.8,1
+Can't Stand You,Slayer,A051,Q2,-3.3,3.8,0.5,0.5
+Hell's Bells,AC/DC,A052,Q2,-2.5,2.5,0.6,0.6
+Strawberry Swing,Coldplay,A053,Q1,1.8,1.3,0.5,0.5
+Born in the USA,Bruce Springsteen,A055,Q2,-1.8,2,0.5,0
+Scarstruck,The Slayer,A056,Q2,-3.8,3.8,0.5,0.5
+Over the Rainbow,Frank Sinatra,A058,Q4,2.5,-2.3,1,0.5
+Wise up,Aimee Mann,A060,Q3,-2.3,-1.3,1,0.5
+Mad World,Gary Jules,A061,Q3,-2,-2.3,0,1
+Aces High,Iron Maiden,A062,Q2,-2.8,3.3,0.5,0.5
+Albedo 039,Vangelis,A063,Q4,1.5,-2.3,0.6,1
+All Night Long,Lionel Ritchie,A064,Q1,3.3,2.8,1,0.5
+The Journey of the Angels,Enya,A066,Q4,1.5,-3.8,0.6,0.5
+The Lady Of Shalott,Loreena Mckennitt,A067,Q4,2.5,-2,0.6,0
+Ashes,Five Finger Deadth Punch,A068,Q2,-4,3.8,0,0.5
+Beautiful,Christina Aguilera,A069,Q1,2.3,3.5,0.5,0.6
+Brick,Ben Folds Five,A071,Q3,-1.8,-1.6,0.4,0.5
+Broken Strings,James Morrison,A073,Q3,-1.8,-1.2,0.4,0.4
+Bullet with your name,Scars of life,A074,Q2,-3.8,3.4,0.4,0.5
+Burning Heart,Survivor,A075,Q1,2.8,2.6,1.1,0.5
+Celebration,Kool and the Gang,A077,Q1,3,3,0,0.7
+China Roses,Enya,A078,Q4,2,-2,0.7,0.7
+Coming Home,Avenged Sevenfold,A079,Q2,-2.4,3.4,0.9,0.5
+"Congratulations, I hate you",Alesana,A080,Q2,-3.4,3.2,0.9,1.1
+Creep,Radiohead,A081,Q3,-1.8,-2,1,0.8
+Cryin' Like a Bitch,Godsmack,A082,Q2,-3.5,3.3,0.6,0.5
+Crying,Don McLean,A083,Q3,-2.3,-1.8,0.5,0.5
+Dance with my Father,Luthor Vandross,A084,Q3,-1.5,-1,1,0
+Dying in the Sun,Cranberries,A085,Q3,-2,-1.5,0.8,0.6
+Everybody Dance Now,CC Music Factory,A086,Q1,3,2.8,0.8,0.5
+Father Time,Lloyd Banks,A087,Q2,-1.8,2,1,0.8
+Fly me to the Moon,Diana Krall,A088,Q4,2.3,-1.3,1,0.5
+Footloose,Kenny Loggins,A089,Q1,2.8,3,0.5,0
+Fuck the World,Tupac Shakur,A090,Q2,-2.5,2.3,0.6,0.5
+Fuck you,Headstones,A091,Q2,-2.3,2.3,0.5,0.5
+Fun Fun Fun,Beach Boys,A092,Q1,3,2.5,0,0.6
+Gold Digger,Kanye West,A093,Q1,1.3,2.8,0.5,0.5
+Good Times,Chic,A094,Q1,3.3,3,0.5,0.8
+Happy,Pharrel Williams,A095,Q1,3.8,3.8,0.5,0.5
+Hello,Evanescence,A096,Q3,-2.3,-1.3,0.5,0.5
+Home,Michael Bublé,A097,Q3,-2,-1.8,0,0.5
+How could Anyone,Shaina Noll,A098,Q4,1.8,-2.3,0.5,0.5
+Hurt,Christina Aguilera,A099,Q2,-2.3,2.5,1,0.6
+I Feel Good,James Brown,A100,Q1,3,3.3,0.8,1
+I Feel Love,Donna Summer,A101,Q1,3.8,2.3,0.5,0.5
+I Wanna Dance with Somebody,Whitney Houston,A102,Q1,3,3,0,0
+Idiot,Lisa Presley,A103,Q2,-2.3,2.3,0.5,0.5
+It's Raining Men,Geri Halliwell,A104,Q1,3.5,3.8,0.6,0.5
+Kiss,Prince,A105,Q1,2.5,2.8,0.6,0.5
+Knife,Rockwell,A106,Q3,-2.3,-2,0.5,0
+Let's Dance,David Bowie,A107,Q1,2,2.8,0,0.5
+Love is where you are,Diana Krall,A109,Q4,2.3,-2.5,1,0.6
+Lovely Linda,Paul McCartney,A110,Q4,2.5,-1.5,0.6,0.6
+Wonderful Christmas Time,Paul McCartney,A161,Q1,2.3,1.8,0.5,0.5
+Wonderful,Aretha Franklin,A162,Q1,2,1.3,0,0.5
+We are the World,Michael Jackson,A164,Q1,3,1.5,0,0.6
+Water Song,Amata,A165,Q4,2.3,-2.8,0.5,0.5
+Wake me up before you go go,Glee,A166,Q1,3.3,3.5,0.5,0.6
+Twistin' the Night Away,Sam Cooke,A167,Q1,3,3,0,0
+The Voice of Enigma,Enigma,A168,Q4,3,-3,0.8,0.8
+The Friendship Song,Carbon Leaf,A169,Q1,2,1.5,0,0.6
+Say Something,A Great Big World,A171,Q3,-1.8,-2.5,0.5,1
+Rockstar,Nickleback,A172,Q2,-2.3,2,0.5,0
+Respect,Aretha Franklin,A173,Q1,3,3,0,0
+Renegade,Eminem and Jay-Z,A174,Q2,-2.5,2,0.6,0
+Prision Song,System of a Down,A176,Q2,-3,3.3,0.8,0.5
+Platypus,Green Day,A177,Q2,-3.5,3.5,0.6,1
+Peace Train,Cat Stevens,A178,Q4,2,-1.5,0.8,0.6
+One People One Land,Monica Brown,A179,Q4,2.3,-1.3,0.5,0.5
+Nature Song,Wayne Mason,A180,Q1,2.3,1.8,0.5,0.5
+Lose Yourself,Eminem,A182,Q2,-3.3,3.3,0.5,0.5
+Killing in the Name,Rage Against The Machine,A183,Q2,-3.5,3.3,0.6,0.5
+It's in the Rain,Enya,A184,Q4,1.8,-2.3,0.5,0.5
+I am the Earth,Glyn Lehmann,A186,Q4,2.8,-2.3,1,0.5
+He's The Greatest Dancer,Sister Sledge,A187,Q1,2.8,2.3,0.5,0.5
+Gloomy Sunday,Billie Holliday,A188,Q3,-1.5,-1.3,1,0.5
+Gift of a friend,Demi Lovato,A189,Q1,2,1.8,0.8,0.5
+Friends are Quiet Angels,Gloria Sklerov and Barbara Rothstein,A190,Q4,2.5,-1.8,0.6,1
+For the Love of a Daughter,Demi Lovato,A191,Q3,-1.3,-1.5,0.5,1
+Family is a Family,Skip West,A192,Q4,2.3,-1.5,0.5,0.6
+Eye of the Tiger,Survivor,A193,Q2,-1.5,3,1,0
+Dead Bodies Everywhere,Korn,A194,Q2,-2.3,3,0.5,0
+Dancing with another man,Bruno Mars,A195,Q3,-1.5,-1.3,0.6,0.5
+Dancing In The Street,Martha Reeves And The Vandellas,A196,Q1,2.3,2,0.5,0
+Christmas Tree,Lady Ga Ga,A197,Q1,2.3,2.8,0.5,0.5
+But Beautiful,Billie Holiday,A198,Q4,2.3,-2.3,0.5,0.5
+Adam's Song,Blink 182,A200,Q2,-1.5,1.5,0.6,0.6

@@ -1,0 +1,87 @@
+--------------------------------------------------------------------------------
+Processing file 'convnet.py'
+ outputting to 'conv.py'
+--------------------------------------------------------------------------------
+
+'convnet.py' Line 257
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:     tf.scalar_summary(l.op.name +' (raw)', l)
+             ~~~~~~~~~~~~~~~~~                         
+    New:     tf.summary.scalar(l.op.name +' (raw)', l)
+             ~~~~~~~~~~~~~~~~~                         
+
+'convnet.py' Line 258
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:     tf.scalar_summary(l.op.name, loss_averages.average(l))
+             ~~~~~~~~~~~~~~~~~                                      
+    New:     tf.summary.scalar(l.op.name, loss_averages.average(l))
+             ~~~~~~~~~~~~~~~~~                                      
+
+'convnet.py' Line 42
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.histogram_summary' to 'tf.summary.histogram'
+
+    Old:   tf.histogram_summary(tensor_name + '/activations', x)
+           ~~~~~~~~~~~~~~~~~~~~                                  
+    New:   tf.summary.histogram(tensor_name + '/activations', x)
+           ~~~~~~~~~~~~~~~~~~~~                                  
+
+'convnet.py' Line 43
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.scalar_summary' to 'tf.summary.scalar'
+
+    Old:   tf.scalar_summary(tensor_name + '/sparsity', tf.nn.zero_fraction(x))
+           ~~~~~~~~~~~~~~~~~                                                    
+    New:   tf.summary.scalar(tensor_name + '/sparsity', tf.nn.zero_fraction(x))
+           ~~~~~~~~~~~~~~~~~                                                    
+
+'convnet.py' Line 238
+--------------------------------------------------------------------------------
+
+Added keyword 'logits' to reordered function 'tf.nn.sparse_softmax_cross_entropy_with_logits'
+Added keyword 'labels' to reordered function 'tf.nn.sparse_softmax_cross_entropy_with_logits'
+
+    Old:   cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(logits, labels, name='cross_entropy_per_example')
+                                                                                                                            
+    New:   cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(logits=logits, labels=labels, name='cross_entropy_per_example')
+                                                                          ~~~~~~~        ~~~~~~~                                          
+
+'convnet.py' Line 278
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.histogram_summary' to 'tf.summary.histogram'
+
+    Old:     tf.histogram_summary(var.op.name, var)
+             ~~~~~~~~~~~~~~~~~~~~                   
+    New:     tf.summary.histogram(var.op.name, var)
+             ~~~~~~~~~~~~~~~~~~~~                   
+
+'convnet.py' Line 55
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.mul' to 'tf.multiply'
+
+    Old:     weight_decay = tf.mul(tf.nn.l2_loss(var), wd, name='weight_loss')
+                            ~~~~~~                                             
+    New:     weight_decay = tf.multiply(tf.nn.l2_loss(var), wd, name='weight_loss')
+                            ~~~~~~~~~~~                                             
+
+'convnet.py' Line 283
+--------------------------------------------------------------------------------
+
+Renamed function 'tf.histogram_summary' to 'tf.summary.histogram'
+
+    Old:      	tf.histogram_summary(var.op.name + '/gradients', grad)
+               ~~~~~~~~~~~~~~~~~~~~                                   
+    New:      	tf.summary.histogram(var.op.name + '/gradients', grad)
+               ~~~~~~~~~~~~~~~~~~~~                                   
+
+
